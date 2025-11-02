@@ -18,7 +18,7 @@ and provides a visual category indicator using **Lottie animations**.
   - Obese  
 - 🔁 Real-time feedback and clear results display
 
-  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1d121130-ba71-4760-bf50-6b592ded7311" />
+  <img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/1d121130-ba71-4760-bf50-6b592ded7311" />
 
 
 
